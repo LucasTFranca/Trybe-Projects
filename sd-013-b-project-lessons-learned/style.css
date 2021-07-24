@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+    top: 0;
+    position: fixed;
+}
+
+#minha_foto {
+    margin-top: 50px;
+    width: 15%;
+}
+
+#rede_social {
+    list-style: none;
+}
+
+#rede_social li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#navegacao {
+    list-style: none;
+    margin-left: 30%;
+}
+
+#navegacao li {
+    display: inline-block;
+    margin-left: 10px;
+}
+/*
+Essa estilização foi inspirada por essa documentação: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_intro*/
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+/*Final da Referencia*/
+
+p {
+    color: #dddddd;
+    font-family: monospace, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.lado-esquerdo {
+    border: 1px solid #dddddd;
+    display: inline-block;
+    padding: 10px;
+    max-width: 30%;
+    margin-top: 10px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.lado-direito {
+    border: 1px solid #dddddd;
+    display: inline-block;
+    padding: 10px;
+    max-width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
