@@ -1,0 +1,40 @@
+*div {
+  margin: 0;
+}
+
+/* Color Palette */
+#color-palette {
+  width: 220px;
+  height: 60px;
+  text-align: center;
+}
+
+.color {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  border: solid black 1px;
+  margin: 1.5px;
+}
+
+/* Button Board */
+#button-board {
+  margin-top: 6px;
+  margin-bottom: 10px;
+}
+
+#board-size {
+  width: 10%;
+}
+
+/* Pixel Board */
+.line-pixel {
+  height: 40px;
+}
+
+.pixel {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  border: solid black 1px;
+}
