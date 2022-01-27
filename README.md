@@ -46,7 +46,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Talker Manager](Back-end/08-talker-manager)_
 - [x] _[Project - Store Manager](Back-end/09-store-manager)_
 - [x] _[Project - Coockmaster](Back-end/10-cookmaster)_
-- [ ] _[Project - Stranger Things]()_
+- [x] _[Project - Stranger Things](Back-end/11-stranger-things)_
 - [ ] _[Project - Blog API]()_
 - [ ] _[Project - Webchat]()_
 - [ ] _[Project - Delivery App]()_
