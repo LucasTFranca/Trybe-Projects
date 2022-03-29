@@ -49,7 +49,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Stranger Things](Back-end/11-stranger-things)_
 - [x] _[Project - Blog API](Back-end/12-blogs-api)_
 - [ ] _[Project - Webchat]()_
-- [ ] _[Project - Delivery App]()_
+- [x] _[Project - Delivery App](Back-end/13-delivery-app)_
 
 ## Computer Science :hourglass_flowing_sand:
 
