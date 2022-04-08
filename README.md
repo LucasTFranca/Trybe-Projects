@@ -54,7 +54,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 ## Computer Science :hourglass_flowing_sand:
 
 - [x] _[Project - Job Insights](Computer-science/01-job-insights)_
-- [ ] _[Project - Inventory Reports]()_
+- [x] _[Project - Inventory Reports](Computer-science/02-inventory-report)_
 - [ ] _[Project - Tech News]()_
 - [ ] _[Project - Algorithms]()_
 - [ ] _[Project - Restaurant Orders]()_
