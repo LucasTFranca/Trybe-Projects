@@ -56,6 +56,6 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Job Insights](Computer-science/01-job-insights)_
 - [x] _[Project - Inventory Reports](Computer-science/02-inventory-report)_
 - [x] _[Project - Tech News](Computer-science/03-tech-news)_
-- [ ] _[Project - Algorithms]()_
+- [x] _[Project - Algorithms](Computer-science/04-algorithms)_
 - [ ] _[Project - Restaurant Orders]()_
 - [ ] _[Project - TING - Trybe Is Not Google]()_
