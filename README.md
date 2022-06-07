@@ -48,7 +48,6 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Coockmaster](Back-end/10-cookmaster)_
 - [x] _[Project - Stranger Things](Back-end/11-stranger-things)_
 - [x] _[Project - Blog API](Back-end/12-blogs-api)_
-- [ ] _[Project - Webchat]()_
 - [x] _[Project - Delivery App](Back-end/13-delivery-app)_
 
 ## Computer Science :hourglass_flowing_sand:
@@ -58,4 +57,4 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Tech News](Computer-science/03-tech-news)_
 - [x] _[Project - Algorithms](Computer-science/04-algorithms)_
 - [x] _[Project - Restaurant Orders](Computer-science/05-restaurant-orders)_
-- [ ] _[Project - TING - Trybe Is Not Google]()_
+- [x] _[Project - TING - Trybe Is Not Google](Computer-science/06-ting)_
