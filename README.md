@@ -34,7 +34,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Star Wars Planet Search](Front-end/08-starwars-planet-search)_
 - [x] _[Project - Recipes App](Front-end/09-recipes-app)_
 
-## Back-end Development :hourglass_flowing_sand:
+## Back-end Development :white_check_mark:
 
 - [x] _[Project - All For One](Back-end/01-all-for-one)_
 - [x] _[Project - Vocabulary Booster](Back-end/02-vocabulary-booster)_
@@ -50,7 +50,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Blog API](Back-end/12-blogs-api)_
 - [x] _[Project - Delivery App](Back-end/13-delivery-app)_
 
-## Computer Science :hourglass_flowing_sand:
+## Computer Science :white_check_mark:
 
 - [x] _[Project - Job Insights](Computer-science/01-job-insights)_
 - [x] _[Project - Inventory Reports](Computer-science/02-inventory-report)_
